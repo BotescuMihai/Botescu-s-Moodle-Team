@@ -18,8 +18,8 @@ $CFG->dboptions = array (
   'dbcollation' => 'utf8mb4_unicode_ci',
 );
 
-$CFG->wwwroot   = 'http://localhost/Botescu-s-Moodle-Team/moodle';
-$CFG->dataroot  = '/opt/lampp/moodledata/moodledata_Botescu-s-Moodle-Team';
+$CFG->wwwroot   = 'http://localhost';
+$CFG->dataroot  = '/opt/lampp/moodledata';
 $CFG->admin     = 'admin';
 
 $CFG->directorypermissions = 0777;
